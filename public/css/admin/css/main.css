@@ -1,0 +1,35 @@
+body
+{
+	background: #f0f0f0;
+	font-family: 'Roboto Condensed', sans-serif;
+}
+h1
+{
+	color: oraange;
+}
+h2,h3,h4,h5,h6{
+	color: #444;
+}
+footer{
+	background: #222;
+	margin-top: 20px;
+	padding: 1em;
+}
+.page
+{
+	background: #fff;
+	border-radius: 1em;
+	margin: 1em;
+	min-height: 500px;
+	padding: 1em;
+}
+.icon-home
+{
+	color: #666;
+	font-size: 60px;
+	margin:  20px;
+}
+.btn-home-admin
+{
+	font-size: 25px;
+}
